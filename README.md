@@ -1,4 +1,4 @@
- # Hi, I’m Monica Vaz
+ # Hi, I’m Monica Vaz 👋
 
 - I’m interested front-end web development, specially mobile first!
 
