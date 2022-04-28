@@ -1,20 +1,29 @@
- # Hi, I’m Monica Vaz 😊✌️
+<a href="https://www.linkedin.com/in/monica-vaz"><img align="right"  width="250px" src="https://i.imgur.com/6hfXPhN.png"></a>
 
-- I’m interested front-end web development, specially mobile first!
-- I’m currently studying javaScript.
-
-## Tech Stack 
- <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-
-## Random fact about me:
-- I'm a psychologist, specialized in behavioral science! 
+<div display="inline-block">
  
+ <h1 align="center" style="margin-left: 20px">Hi, I'm Monica Vaz  </h1>
+ <h3 align="center"> 🐱‍💻 I'm a Web Development Student </h3>
+</div>
 
-<!---
-M0nicaVaz/M0nicaVaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center"  display="inline-block">
+ 
+>
+  
+**Attending Rocketseat's [Explorer](https://github.com/M0nicaVaz/explorer) Program** <br>
+ I am able to use  `.js`, `.html`, `.css` <br>
+ I want to learn  `ReactJS` and `NodeJS`<br> <br>
+🧠 Fun fact: I'm also a psychologist!<br> 
+<br>
+  <a href="https://www.linkedin.com/in/monica-vaz"><img align="right" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+</div>
+
+##
+
+<p align="center">
+<a href="https://github.com/M0nicaVaz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=M0nicaVaz&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=M0nicaVaz&layout=compact&langs_count=8&theme=nord"/>
+</a>
+</p>
+</div>
