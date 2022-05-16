@@ -3,7 +3,7 @@
 <div display="inline-block">
  
  <h1 align="center" style="margin-left: 20px">Hi, I'm Monica Vaz  </h1>
- <h3 align="center"> 🐱‍💻 I'm a Web Development Student </h3>
+ <h3 align="center"> 💻 I'm a Web Development Student </h3>
 </div>
 
 <div align="center"  display="inline-block">
