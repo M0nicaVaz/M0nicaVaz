@@ -2,7 +2,7 @@
 
 <div display="inline-block">
  
- <h1 align="center" style="margin-left: 20px">Hi, I'm Monica Vaz  </h1>
+ <h1 align="center" style="margin-left: 20px">Hi, I'm Monica 👋 </h1>
  <h3 align="center"> 💻 I'm a Web Development Student </h3>
 </div>
 
@@ -10,9 +10,9 @@
  
 >
   
-**Attending Rocketseat's [Explorer](https://github.com/M0nicaVaz/explorer) Program** <br>
  I am able to use  `.js`, `.html`, `.css` <br>
- I want to learn  `ReactJS` and `NodeJS`<br> <br>
+ Currently I'm studying `node.js` <b> <br>
+ Looking foward to studying `React JS`<br> <br>
 🧠 Fun fact: I'm also a psychologist!<br> 
 <br>
   <a href="https://www.linkedin.com/in/monica-vaz"><img align="right" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
