@@ -11,7 +11,7 @@
 >
   
  I am able to use  `.js`, `.html`, `.css` <br>
- Currently I'm studying `node.js` <b> <br>
+ Currently I'm studying `node.js` and `SQL`<b> <br>
  Looking foward to studying `React JS`<br> <br>
 🧠 Fun fact: I'm also a psychologist!<br> 
 <br>
