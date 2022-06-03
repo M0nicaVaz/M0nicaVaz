@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/monica-vaz"><img align="right"  width="250px" src="https://i.imgur.com/6hfXPhN.png"></a>
+<a href="https://www.linkedin.com/in/monica-vaz"><img align="right"  width="220px" src="https://i.imgur.com/6hfXPhN.png"></a>
 
 <div display="inline-block">
  
@@ -10,9 +10,9 @@
  
 >
   
- I am able to use  `.js`, `.html`, `.css` <br>
- Currently I'm studying `node.js` and `SQL`<b> <br>
- Looking foward to studying `React JS`<br> <br>
+ I am able to code using  `.js`, `.html` and `.css` <br>
+ Currently I'm studying `Node` and `React`<b> <br>
+ <br>
 🧠 Fun fact: I'm also a psychologist!<br> 
 <br>
   <a href="https://www.linkedin.com/in/monica-vaz"><img align="right" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
