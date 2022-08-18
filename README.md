@@ -3,15 +3,15 @@
 <div display="inline-block">
  
  <h1 align="center" style="margin-left: 20px">Hi, I'm Monica 👋 </h1>
- <h3 align="center"> 💻 I'm a Web Development Student </h3>
+ <h3 align="center"> 💻 I'm a web developer </h3>
 </div>
 
 <div align="center"  display="inline-block">
  
 >
   
- I am able to code using  `.js`, `.html` and `.css` <br>
- Currently I'm studying `Node` and `React`<b> <br>
+I'm passionate about the client side! <br>
+Currently studying `Node`, `React` and `TypeScript` <br> 
  <br>
 🧠 Fun fact: I'm also a psychologist!<br> 
 <br>
