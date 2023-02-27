@@ -1,22 +1,12 @@
-<a href="https://www.linkedin.com/in/monica-vaz"><img align="right"  width="220px" src="https://i.imgur.com/6hfXPhN.png"></a>
-
 <div display="inline-block">
  
  <h1 align="center" style="margin-left: 20px">Hi, I'm Monica 👋 </h1>
- <h3 align="center"> 💻 I'm a web developer </h3>
+ <p align="center"> 💻 I'm a frontend web developer </p>
+ <div align="center">
+  <a href="https://www.linkedin.com/in/monica-vaz"><img align="center" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /><a/> 
+
 </div>
 
-<div align="center"  display="inline-block">
- 
->
-  
-I'm passionate about the client side! <br>
-Currently studying `Node`, `React` and `TypeScript` <br> 
- <br>
-🧠 Fun fact: I'm also a psychologist!<br> 
-<br>
-  <a href="https://www.linkedin.com/in/monica-vaz"><img align="right" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-</div>
 
 ##
 
