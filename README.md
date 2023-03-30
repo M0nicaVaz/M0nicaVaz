@@ -1,6 +1,6 @@
 <div display="inline-block">
  
- <h1 align="center" style="margin-left: 20px">Hi, I'm Monica 👋 </h1>
+
  <p align="center"> 💻 I'm a frontend web developer </p>
  <div align="center">
 
