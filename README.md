@@ -2,6 +2,7 @@
  
 
  <p align="center"> 💻 I'm a frontend developer </p>
+ <p align="center"> Check out my <a href="https://monicavaz.dev/">portfolio</a> </p>
 
  <div align="center">
 
