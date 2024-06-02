@@ -6,7 +6,7 @@
 
  <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,graphql,flutter)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,flutter)](https://skillicons.dev)
 
  <p align="right">
   <a href="https://www.linkedin.com/in/monica-vaz"><img align="center" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /><a/> 
