@@ -1,10 +1,11 @@
 <div display="inline-block">
  
 
- <p align="center"> 💻 I'm a frontend web developer </p>
+ <p align="center"> 💻 I'm a frontend developer </p>
+
  <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,graphql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,graphql,flutter)](https://skillicons.dev)
 
  <p align="right">
   <a href="https://www.linkedin.com/in/monica-vaz"><img align="center" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /><a/> 
